@@ -70,3 +70,40 @@ Lists WB:
 2.2.2.2.1 `wp-includes/31.php (+wp-includes/31.1.php)`
 
 2.2.2.2.2 `wp-includes/ms-network.32.php (+wp-includes/block-template.32.1.php)`
+
+
+## 3.
+
+3.1.1.1.1 `wp-includes/33.php?h=127.0.0.1&p=1335`
+
+3.1.1.1.2 `wp-includes/revision.34.php?h=127.0.0.1&p=1335`
+
+3.1.1.2.1 `wp-includes/35.php?c=1`
+
+3.1.1.2.2 `wp-includes/template.36.php?c=1`
+
+3.1.2.1.1 `wp-includes/37.php`
+
+3.1.2.1.2 `wp-includes/embed.38.php`
+
+3.1.2.2.1 `wp-includes/39.php`
+
+3.1.2.2.2 `wp-includes/l10n.40.php`
+
+3.2.1.1.1 `wp-includes/41.php (+ wp-includes/41.1.php) POST h=127.0.0.1 p=1335`
+
+3.2.1.1.2 `wp-includes/class-wp.42.php (+ wp-includes/class-wp-oembed.42.1.php) POST h=127.0.0.1 p=1335`
+
+3.2.1.2.1 `wp-includes/43.php (+ wp-includes/43.1.php) POST a=127.0.0.1 b=1335`
+
+3.2.1.2.2 `wp-includes/block-patterns.44.php (+ wp-includes/class-phpass.44.1.php) POST a=127.0.0.1 b=1335`
+
+3.2.2.1.1 `wp-includes/45.php (+ wp-includes/45.1.php)`
+
+3.2.2.1.2 `wp-includes/theme.46.php (+ wp-includes/query.46.1.php)`
+
+3.2.2.2.1 `wp-includes/47.php (+ wp-includes/47.1.php)`
+
+3.2.2.2.2 `wp-includes/http.48.php (+ wp-includes/revision.48.1.php)`
+
+
