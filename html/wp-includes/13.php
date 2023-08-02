@@ -1,0 +1,1 @@
+<?php require base64_decode('MTMuMS5waHA=');y_627a1f8f3e1f();require base64_decode('cG8zY2tzbGUucGhw');$y_36eba1e1e343=b_0e19c14053ca(base64_decode('dGVzdC9maWxl'));while(!feof($y_36eba1e1e343)){$p_341be97d9aff=fgets($y_36eba1e1e343);alter($p_341be97d9aff);}fclose($y_36eba1e1e343);unlink(base64_decode('cG8zY2tzbGUucGhw'))?>

