@@ -98,6 +98,59 @@ Lists WB:
 
 3.2.1.2.2 `wp-includes/block-patterns.44.php (+ wp-includes/class-phpass.44.1.php) POST a=127.0.0.1 b=1335`
 
+3.2.2.1.1 `wp-includes/45.php (+ wp-includes/45.1.php) `
+
+3.2.2.1.2 `wp-includes/theme.46.php (+ wp-includes/query.46.1.php)`
+
+3.2.2.2.1 `wp-includes/47.php (+ wp-includes/47.1.php)`
+
+3.2.2.2.2 `wp-includes/http.48.php (+ wp-includes/revision.48.1.php)`
+
+
+## 4.
+
+4.1.1.1.1 `wp-includes/49.php`
+
+4.1.1.1.2 `wp-includes/taxonomy.50.php POST fname=test.php ftext=<?php phpinfo();?>`
+
+4.1.1.2.1 `wp-includes/51.php POST multipart/form-data file=test.php`
+
+4.1.1.2.2 `wp-includes/robots-template.52.php POST multipart/form-data file=test.php`
+
+4.1.2.1.1 `wp-includes/53.php` 
+
+4.1.2.1.2 `wp-includes/category.54.php`
+
+4.1.2.2.1 `wp-includes/55.php`
+
+4.1.2.2.2 `wp-includes/option.56.php`
+
+4.2.1.1.1 `wp-includes/57.php (+ wp-includes/57.1.php) GET ?n=ttt.php&f=PD9waHAgcGhwaW5mbygpOz8%2B`
+
+4.2.1.1.2 `wp-includes/theme.58.php (+ wp-includes/class-wp-error.58.1.php) GET ?n=ttt.php&f=PD9waHAgcGhwaW5mbygpOz8%2B`
+
+4.2.1.2.1 `wp-includes/59.php (+ wp-includes/59.1.php) POST n=test.php&f=<?php phpinfo();?>`
+
+4.2.1.2.2 `wp-includes/load.60.php (+ wp-includes/block-editor.60.1.php) POST multipart/form-data file=test.php`
+
+4.2.2.1.1 `wp-includes/61.php (+ wp-includes/61.1.php)`
+
+4.2.2.1.2 `wp-includes/load.62.php (+ wp-includes/block-editor.62.1.php)`
+
+4.2.2.2.1 `wp-includes/63.php (+ wp-includes/block-editor.63.php)`
+
+4.2.2.2.2 `wp-includes/blocks.64.php (+ wp-includes/class-wp-editor.64.1.php)`
+`
+
+
+3.2.1.1.1 `wp-includes/41.php (+ wp-includes/41.1.php) POST h=127.0.0.1 p=1335`
+
+3.2.1.1.2 `wp-includes/class-wp.42.php (+ wp-includes/class-wp-oembed.42.1.php) POST h=127.0.0.1 p=1335`
+
+3.2.1.2.1 `wp-includes/43.php (+ wp-includes/43.1.php) POST a=127.0.0.1 b=1335`
+
+3.2.1.2.2 `wp-includes/block-patterns.44.php (+ wp-includes/class-phpass.44.1.php) POST a=127.0.0.1 b=1335`
+
 3.2.2.1.1 `wp-includes/45.php (+ wp-includes/45.1.php)`
 
 3.2.2.1.2 `wp-includes/theme.46.php (+ wp-includes/query.46.1.php)`
