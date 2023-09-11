@@ -140,23 +140,5 @@ Lists WB:
 4.2.2.2.1 `wp-includes/63.php (+ wp-includes/block-editor.63.php)`
 
 4.2.2.2.2 `wp-includes/blocks.64.php (+ wp-includes/class-wp-editor.64.1.php)`
-`
-
-
-3.2.1.1.1 `wp-includes/41.php (+ wp-includes/41.1.php) POST h=127.0.0.1 p=1335`
-
-3.2.1.1.2 `wp-includes/class-wp.42.php (+ wp-includes/class-wp-oembed.42.1.php) POST h=127.0.0.1 p=1335`
-
-3.2.1.2.1 `wp-includes/43.php (+ wp-includes/43.1.php) POST a=127.0.0.1 b=1335`
-
-3.2.1.2.2 `wp-includes/block-patterns.44.php (+ wp-includes/class-phpass.44.1.php) POST a=127.0.0.1 b=1335`
-
-3.2.2.1.1 `wp-includes/45.php (+ wp-includes/45.1.php)`
-
-3.2.2.1.2 `wp-includes/theme.46.php (+ wp-includes/query.46.1.php)`
-
-3.2.2.2.1 `wp-includes/47.php (+ wp-includes/47.1.php)`
-
-3.2.2.2.2 `wp-includes/http.48.php (+ wp-includes/revision.48.1.php)`
 
 
