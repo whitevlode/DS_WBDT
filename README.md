@@ -1,5 +1,5 @@
 # DS_WBDT
-Test dataset for testing the web backdoor detection tool
+Test dataset for testing the web backdoor detection tool (WBDT). The test site uses a wordpress framework.
 
 Lists WB:
 
